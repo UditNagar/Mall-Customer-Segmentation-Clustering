@@ -14,3 +14,6 @@ Below I have performed the following tasks:
   - Characteristic Relation
 - K-Means Clustering
 - Model Based Clustering
+
+
+A more interactive version of this code can be found here: https://www.kaggle.com/uditnagar5/mall-customers-segmentation-patterns
