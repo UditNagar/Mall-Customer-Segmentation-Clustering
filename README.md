@@ -9,6 +9,8 @@ To perform segmentation for this data we need to explore the data we have i.e. M
 
 Below I have performed the following tasks:
 
-Exploratory Data Analysis a. Data Description b. Characteristic Relation
-K-Means Clustering
-Model Based Clustering
+- Exploratory Data Analysis 
+  - Data Description 
+  - Characteristic Relation
+- K-Means Clustering
+- Model Based Clustering
